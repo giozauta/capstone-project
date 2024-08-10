@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+form{
+    width: 50%;
+    border: 1px solid gray;
+    padding: 25px;
+    background-color:#D2D7DF;
+}
+.joke_box{
+    border: 2px solid black;
+    width: 50%;
+    padding: 25px;
+
+}
